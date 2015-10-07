@@ -1,7 +1,7 @@
 body {
 	font-family: Georgia, "Times New Roman",
 	Times, serif;
-		color: black;
+		color: white;
 	background-color:  #BDBDBD }
 	h1 {
 	font-family: Helvetica, Geneva, Arial,
@@ -10,4 +10,10 @@ body {
 		margin-top: 1em;
 		padding-top: 1em;
 		border-top: thin dotted}
+	p.one {
+    border-style: solid;
+    border-color: black;
+}	
 }
+
+
